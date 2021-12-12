@@ -1,4 +1,4 @@
-# accounting-database
+# accounting-research-database
 This repo contains code snippets dealing with database for accounting research.
 
 The following database will be covered.
